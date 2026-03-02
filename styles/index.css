@@ -19,3 +19,14 @@ hr{
     height: 5px;
     background-color: black;
 }
+
+section{
+    margin: 0 auto;
+}
+
+.card{
+    padding: 25px;
+    border: 5px solid black;
+    margin: 10px 40px;
+    height: 180px;
+}
