@@ -3,7 +3,19 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 body{
     width: 512px;
     margin: 0 auto;
+    /* border: 2px dashed black; */
+}
+
+header{
+    padding: 5px;
+}
+
+
+hr{
+    height: 5px;
+    background-color: black;
 }
